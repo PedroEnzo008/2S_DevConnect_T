@@ -35,10 +35,7 @@ main > div{
 }
 
 .estilo-formulario{
-    border: var(--borda);
-    width: 100%;
     max-width: 340px;
-    background-color: var(--cor-azul-cinza);
 }
 
 #formulario > div {
@@ -48,7 +45,7 @@ main > div{
 
 #formulario > div > label{
     font-size: var(--tamanho-fonte-sm);
-    color: var(--cor-azul-escuro);
+    color: var(--cor-cinza);
     font-weight: 500; /*aumenta ou diminui a espessura da fonte*/
     padding-bottom: 4px;
 }
@@ -66,7 +63,7 @@ main > div{
 
 #formulario > a, #secao-cadastro > p > a{
     text-decoration: none;
-    color: var(--cor-azul-ciano);
+    color: var(--cor-cinza);
     font-weight: 600;
 }
 
