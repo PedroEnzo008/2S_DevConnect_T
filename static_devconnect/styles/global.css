@@ -84,7 +84,6 @@ label
     max-width: 300px;
     min-height: 35px;
     padding: 5px;
-    background-color: var(--cor-azul-escuro);
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
